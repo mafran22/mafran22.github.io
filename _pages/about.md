@@ -1,27 +1,15 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Objective"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-[Name], PhD, is a computer vision researcher with expertise in deep learning, computer vision, and image processing. [He/She] received [his/her] PhD in Computer Science from [University] where [he/she] worked on developing deep learning algorithms for object recognition and tracking in videos. During [his/her] PhD, [he/she] also contributed to the development of a large-scale dataset for object tracking, which has been widely used in the computer vision community.
-
-After [his/her] PhD, [he/she] joined [company/lab] as a research scientist, where [he/she] worked on developing computer vision algorithms for autonomous vehicles. [His/Her] work at [company/lab] led to several publications in top-tier computer vision conferences and journals, and [he/she] also contributed to the development of an open-source library for object detection and tracking.
-
-[Name]'s research interests include deep learning for computer vision, object recognition and tracking, and image processing. [He/She] has extensive experience in developing and deploying computer vision algorithms in real-world applications, and [he/she] is passionate about using computer vision to solve challenging problems in various domains.
-
-As a postdoctoral researcher, [Name] is looking to collaborate with researchers and scientists in academia and industry to advance the state-of-the-art in computer vision and develop solutions that can have a real-world impact. [He/She] is excited to work on challenging and interdisciplinary problems that require expertise in computer vision, machine learning, and other related fields.
-
-
-
-
-
 Mathew Francis is a computer vision researcher with expertise in deep learning, image processing, object tracking, etc.]. He submitted PhD thesis in Electrical Engineering from IIT Guwahati where he worked on object tracking. Mathew Francis has published papers incomputer vision conferences, and his work has been cited.
 
-After converting  PhD to part-time , he worked as a data scientist at Kaliber Labs wherehe worked on AI in surgery. He has also contributed to the development ofmany algorithms.
+After converting  PhD to part-time , he worked as a Data Scientist at Kaliber Labs wherehe worked on AI in surgery. He has also contributed to the development ofmany algorithms.
 
 His research interests include deep learning, object recognition, image processing, etc..He is passionate about using computer vision to solve challenging problems in areas you're interested in applying your research to, such as healthcare, autonomous driving , etc..
 
