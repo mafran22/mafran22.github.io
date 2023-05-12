@@ -7,7 +7,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
+[Name], PhD, is a computer vision researcher with expertise in deep learning, computer vision, and image processing. [He/She] received [his/her] PhD in Computer Science from [University] where [he/she] worked on developing deep learning algorithms for object recognition and tracking in videos. During [his/her] PhD, [he/she] also contributed to the development of a large-scale dataset for object tracking, which has been widely used in the computer vision community.
 
+After [his/her] PhD, [he/she] joined [company/lab] as a research scientist, where [he/she] worked on developing computer vision algorithms for autonomous vehicles. [His/Her] work at [company/lab] led to several publications in top-tier computer vision conferences and journals, and [he/she] also contributed to the development of an open-source library for object detection and tracking.
+
+[Name]'s research interests include deep learning for computer vision, object recognition and tracking, and image processing. [He/She] has extensive experience in developing and deploying computer vision algorithms in real-world applications, and [he/she] is passionate about using computer vision to solve challenging problems in various domains.
+
+As a postdoctoral researcher, [Name] is looking to collaborate with researchers and scientists in academia and industry to advance the state-of-the-art in computer vision and develop solutions that can have a real-world impact. [He/She] is excited to work on challenging and interdisciplinary problems that require expertise in computer vision, machine learning, and other related fields.
+
+
+
+
+
+Mathew Francis is a computer vision researcher with expertise in deep learning, image processing, object tracking, etc.]. He submitted PhD thesis in Electrical Engineering from IIT Guwahati where he worked on object tracking. Mathew Francis has published papers incomputer vision conferences, and his work has been cited.
+
+After converting  PhD to part-time , he worked as a data scientist at Kaliber Labs wherehe worked on AI in surgery. He has also contributed to the development ofmany algorithms.
+
+His research interests include deep learning, object recognition, image processing, etc..He is passionate about using computer vision to solve challenging problems in areas you're interested in applying your research to, such as healthcare, autonomous driving , etc..
+
+As a postdoctoral candidate, he is excited to work on challenging and interdisciplinary problems that require expertise in computer vision, machine learning, and other related fields. He is looking to collaborate with researchers and scientists in academia and industry to advance the state-of-the-art in computer vision and develop solutions that can have a real-world impact.
+
+
+
+
+
+
+
+
+Regenerate response
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
