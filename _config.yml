@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About Me"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a computer vision researcher with expertise in deep learning, computer vision, and image processing. I have submitted my PhD thesis in Object Tracking from IIT Guwahati where I worked on developing deep learning algorithms for object  tracking in videos. My research interests include deep learning, object tracking, image processing, etc. I am passionate about using computer vision to solve challenging problems in  healthcare, autonomous driving etc."
   location         : "Kerala, India"
   employer         : 
   pubmed           : 
