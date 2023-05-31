@@ -29,10 +29,11 @@ Work experience
   * Wipro Technologies
 
   
-Skills
+Certifications
 ======
 * Coursera Deep Learning Certificaton 
-* VSkills HTML Certification
+* Sun Certified Java Programmer (SCJP)
+* VSkills Certified HTML Designer
 
 
 Publications
@@ -45,9 +46,14 @@ Publications
   
 Teaching
 ======
-* Teaching Assistant For Machine Learning
-* Teachning Assistant for Computer Vision
+* Teaching Assistant For Machine Learning, IIT Guwahati 
+* Teachning Assistant for Computer Vision, IIT Guwahati 
   
-Service and leadership
+Skills
 ======
+* PyTorch, Python, C++, MATLAB
+
+Achievements
+======
+* Web Manager of conference ICVGIP 2016 helld at IIT Guwahati
 * Contibuted to Github artic code vault
