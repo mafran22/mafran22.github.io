@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p style='text-align: justify;'> Mathew Francis is a computer vision researcher with expertise in deep learning, machine learning, image processing, object tracking, etc.. He submitted PhD thesis in Electrical Engineering from IIT Guwahati where he worked on the topic of single object tracking. Mathew Francis has published papers incomputer vision conferences, and his work has been cited.</p>
 
-<p style='text-align: justify;'>After converting  PhD to part-time, he worked as a Data Scientist at Kaliber Labs wherehe worked on AI in surgery. He has also contributed to the development ofmany algorithms.</p>
+<p style='text-align: justify;'>After converting  PhD to part-time, he worked as a Data Scientist at Kaliber Labs where he helped create innovative solutions in surgery with AI tools.</p>
 
 <p style='text-align: justify;'>His research interests include deep learning, machine  learning, object tracking, image processing, etc.. He is passionate about using computer vision to solve challenging problems in areas  such as healthcare, autonomous driving, etc..</p>
 
