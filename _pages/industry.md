@@ -38,8 +38,8 @@ author_profile: true
 </ul>
 
 ## Skills
-<ul><li>Languages: Python, C/++, Java, HTMl, CSS, MATLAB, Shellscript, Latex</li>
-  <li> Libraries: PyTorch, Keras, OpenCV, Python, C++, , HTM </li>
+<ul><li>Languages: Python, C/++, Java, SQL, HTML, CSS, MATLAB, Shellscript, Latex</li>
+  <li> Libraries: PyTorch, Keras, OpenCV, SKlearn </li>
   <li>Tools: Informatica, Teradata, Microstrategy</li>
   <li> DevOps:  Docker, git, github</li>
   </ul>
