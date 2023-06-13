@@ -30,7 +30,7 @@ author_profile: true
 <ul>
   <li><ul>
     <lh>Coursera Deep Learning Certificaton</lh>
-    <li>ucturing Machine Learning Projects, 2019</li>
+    <li>Sucturing Machine Learning Projects, 2019</li>
     <li>Introduction to tensorflow for Artificial Itelligence, Machine Learning and Deep Learning, 2019</li>
     <li>Neural Networks and Deep Learning, 2019</li>
     </ul>
