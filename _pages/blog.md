@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Industry"
-permalink: /industry/
+title: "Blog"
+permalink: /blog/
 author_profile: true
 ---
 
