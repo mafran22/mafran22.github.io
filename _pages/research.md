@@ -16,5 +16,6 @@ Visual tracking with breeding fireflies using brightness from background-foregro
 </ul>
 
 ## Teaching
-Teaching Assistant For Machine Learning, IIT Guwahati
-Teachning Assistant for Computer Vision, IIT Guwahati
+<ul><li>Teaching Assistant For Machine Learning, IIT Guwahati</li>
+  <li>Teachning Assistant for Computer Vision, IIT Guwahati</li>
+ </ul>
