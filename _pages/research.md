@@ -14,3 +14,7 @@ Visual tracking with breeding fireflies using brightness from background-foregro
 <li>Tracking under scaling and rotations using stochastic mean shift, R Rajesh, M Francis, P Guha, 2015 Annual IEEE India Conference (INDICON), 1-6 1 2015</li>
 <li>PD-Shift: Patch Detector Shift based Tracker, M Francis, R Rajesh, P Guha, 2015 Fifth National Conference on Computer Vision, Pattern Recognition </li>
 </ul>
+
+## Teaching
+Teaching Assistant For Machine Learning, IIT Guwahati
+Teachning Assistant for Computer Vision, IIT Guwahati
