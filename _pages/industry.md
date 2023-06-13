@@ -36,6 +36,9 @@ author_profile: true
   <li>VSkills Certified HTML Designer, 2011</li>
   <li>Sun Certified Java Programmer (SCJP), 2009</li>
 </ul>
+
+## Skills
+PyTorch, Python, C++, MATLAB
     
 
 
