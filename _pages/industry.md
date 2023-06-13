@@ -18,7 +18,7 @@ author_profile: true
   <li>
     <ul>
       <li>Project Engineer : 2009-2010, Wipro Technologies</li>
-      <li>Software testing od retail data warehousing applications</li>
+      <li>Software testing of retail data warehousing applications</li>
     </ul> 
   </li>
  </ul>
