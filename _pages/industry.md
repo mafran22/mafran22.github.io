@@ -27,6 +27,17 @@ author_profile: true
  
 
 ## Certifications
-Coursera Deep Learning Certificaton
-Sun Certified Java Programmer (SCJP)
-VSkills Certified HTML Designer
+<ul>
+  <li><ul>
+    <lh>Coursera Deep Learning Certificaton</lh>
+    <li>ucturing Machine Learning Projects, 2019</li>
+    <li>Introduction to tensorflow for Artificial Itelligence, Machine Learning and Deep Learning, 2019</li>
+    <li>Neural Networks and Deep Learning, 2019</li>
+    </ul>
+  </li>
+  <li>VSkills Certified HTML Designer, 2011</li>
+  <li>Sun Certified Java Programmer (SCJP), 2009</li>
+</ul>
+    
+
+
