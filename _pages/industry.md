@@ -36,7 +36,7 @@ author_profile: true
     </ul>
   </li>
   <li><ul>
-    <lh>eQMS</lh>
+    <lh>eQMS, 2022</lh>
     <li> Design Controld</li>
     <li>Risk Management</li>
     </ul>
