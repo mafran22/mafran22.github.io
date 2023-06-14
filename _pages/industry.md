@@ -35,6 +35,12 @@ author_profile: true
     <li>Structuring Machine Learning Projects</li>
     </ul>
   </li>
+  <li><ul>
+    <lh>eQMS</lh>
+    <li> Design Controld</li>
+    <li>Risk Management</li>
+    </ul>
+  </li>
   <li>VSkills Certified HTML Designer, 2011</li>
   <li>Sun Certified Java Programmer (SCJP), 2009</li>
 </ul>
