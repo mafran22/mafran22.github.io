@@ -30,8 +30,9 @@ author_profile: true
     <lh>Coursera Deep Learning Certificaton</lh>
     <li>Introduction to Generative AI, Google Cloud, 2023<li>
     <li>Sucturing Machine Learning Projects, 2019</li>
-    <li>Introduction to tensorflow for Artificial Itelligence, Machine Learning and Deep Learning, 2019</li>
+    <li>Introduction to tensorflow for Artificial Intelligence, Machine Learning and Deep Learning, 2019</li>
     <li>Neural Networks and Deep Learning, 2019</li>
+    <li>Structuring Machine Learning Projects<li>
     </ul>
   </li>
   <li>VSkills Certified HTML Designer, 2011</li>
