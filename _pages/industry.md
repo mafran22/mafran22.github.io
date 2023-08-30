@@ -16,7 +16,7 @@ author_profile: true
         <li>Research and development of AI assisted solutions for surgical products.  Both machine learniing algorithms and deep learning techniques were utilized in product development.   Modules developed include anatomy classification,  motion estimation, segmentation of tools and anatomy, image retrieval . Reponsibilities included data prepration, model training and testing,  algorithm devlopment and quality management.  </li>
       </ul>
     </li>
-      <li><b>Project Engineer</b> : 2009-2010, Wipro Technologies</br>
+      <li><b>Project Engineer</b> : 2009-2010, Wipro Technologies<br>
         <ul>
             <li>
                 Software testing of retail data warehousing applications for data analytics. Reponsibilities included testing the end-to-end-pipeline from data cleaning to analytics report generation. Testing was carried out with SQL queries and analytics reports were genrated with microstrategy tool. 
