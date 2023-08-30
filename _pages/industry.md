@@ -18,7 +18,7 @@ author_profile: true
     </li>
       <li><b>Project Engineer</b> : 2009-2010, Wipro Technologies</br>
       <ul><li>Software testing of retail data warehousing applications for data analytics. Reponsibilities included testing the end-to-end-pipeline from data cleaning to analytics report generation. Testing was carried out with SQL queries and analytics reports were genrated with microstrategy tool.  </li></ul>
-    </ul> 
+    
   </li>
  </ul>
  
