@@ -10,7 +10,7 @@ author_profile: true
 ## Work experience
 <ul>
   <li> <b>Senior Data Scientist</b> : 2023-current, Kaliber.ai<br>
-  <ul><li>Worked on the product development for 2D point tracking for navigation in surgery. My responsibilities involved facilitating communication between the technical team and subject matter experts, as well as guiding the process of product development.</li></li>      
+  <ul><li>Worked on the product development for 2D point tracking for navigation in surgery. My responsibilities involved facilitating communication between the technical team and subject matter experts, as well as guiding the process of product development.</li></ul></li>     
     <li> <b>Data Scientist</b> : 2019-2023, Kaliber.ai<br>
       <ul>
         <li>Research and development of AI assisted solutions for surgical products.  Both machine learniing algorithms and deep learning techniques were utilized in product development.   Modules developed include anatomy classification,  motion estimation, segmentation of tools and anatomy, image retrieval . Reponsibilities included data prepration, model training and testing,  algorithm devlopment and quality management.  </li>
