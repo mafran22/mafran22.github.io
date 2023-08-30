@@ -11,14 +11,14 @@ author_profile: true
 <ul>
   <li>
     <ul>
-      <li> Data Scientist : 2019-current, Kaliber.ai</li>
-      <li>Research and development of AI assisted tools for surgical applications</li>
+      <li> <b>Data Scientist</b> : 2019-current, Kaliber.ai</li>
+      <li>Research and development of AI assisted solutions for surgical products.  Both machine learniing algorithms and deep learning techniques were utilized in product development. Worked on 2D point tracking for navigation in surgery.  Modules developed include anatomy classification,  motion estimation, segmentation of tools and anatomy, image retrieval . Reponsibilities included data prepration, model training and testing,  algorithm devlopment and quality management.  </li>
     </ul>
   </li>
   <li>
     <ul>
-      <li>Project Engineer : 2009-2010, Wipro Technologies</li>
-      <li>Software testing of retail data warehousing applications</li>
+      <li><b>Project Engineer</b> : 2009-2010, Wipro Technologies</li>
+      <li>Software testing of retail data warehousing applications for data analytics. Reponsibilities included testing the end-to-end-pipeline from data cleaning to analytics report generation. Testing was carried out with SQL queries and analytics reports were genrated with microstrategy tool.  </li>
     </ul> 
   </li>
  </ul>
