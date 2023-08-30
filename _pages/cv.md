@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<p>Download CV in <a href="files/pdf/cv.pdf">pdf</p>
 
 Objective
 ======
