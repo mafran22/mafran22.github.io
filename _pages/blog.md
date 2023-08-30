@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Blog"
-permalink: /blog/
+permalink: /
 author_profile: true
 ---
 
