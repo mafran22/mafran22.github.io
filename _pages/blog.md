@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Tutorials
-Coming Soon
+<a href="K-means.html"> K-Means</a>
     
 
 
