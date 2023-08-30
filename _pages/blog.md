@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## Tutorials
-<a href="https://mafran22.github.io/pages/K-means" relation="permalink"> K-Means</a>
+<a href="https://mafran22.github.io/pages/talks" relation="permalink"> K-Means</a>
     
 
 
