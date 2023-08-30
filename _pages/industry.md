@@ -10,15 +10,18 @@ author_profile: true
 ## Work experience
 <ul>
   <li> <b>Senior Data Scientist</b> : 2023-current, Kaliber.ai<br>
-  <ul><li>Worked on the product development for 2D point tracking for navigation in surgery. My responsibilities involved facilitating communication between the technical team and subject matter experts, as well as guiding the process of product development.</li></ul></li>     
+    <ul><li>Worked on the product development for 2D point tracking for navigation in surgery. My responsibilities involved facilitating communication between the technical team and subject matter experts, as well as guiding the process of product development.</li></ul></li>     
     <li> <b>Data Scientist</b> : 2019-2023, Kaliber.ai<br>
       <ul>
         <li>Research and development of AI assisted solutions for surgical products.  Both machine learniing algorithms and deep learning techniques were utilized in product development.   Modules developed include anatomy classification,  motion estimation, segmentation of tools and anatomy, image retrieval . Reponsibilities included data prepration, model training and testing,  algorithm devlopment and quality management.  </li>
       </ul>
     </li>
       <li><b>Project Engineer</b> : 2009-2010, Wipro Technologies</br>
-      <ul><li>Software testing of retail data warehousing applications for data analytics. Reponsibilities included testing the end-to-end-pipeline from data cleaning to analytics report generation. Testing was carried out with SQL queries and analytics reports were genrated with microstrategy tool.  </li></ul>
-    
+        <ul>
+            <li>
+                Software testing of retail data warehousing applications for data analytics. Reponsibilities included testing the end-to-end-pipeline from data cleaning to analytics report generation. Testing was carried out with SQL queries and analytics reports were genrated with microstrategy tool. 
+            </li>
+        </ul>    
   </li>
  </ul>
  
