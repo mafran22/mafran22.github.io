@@ -28,6 +28,7 @@ author_profile: true
 
 ## Certifications
 <ul>
+  <li>  AI-900: Microsoft Azure AI Fundamentals, 2023</li>
   <li><ul>
     <lh>Coursera Deep Learning Certificaton</lh>
     <li>Introduction to Generative AI, Google Cloud, 2023</li>
