@@ -31,19 +31,20 @@ Education
 
 Work Experience
 ======
-* Senior AI Researcher at Kaliber.ai : 2023-current
-* Data Scientist at  Kaliber.ai: 2019-2023
-* Project Engineer at Wipro Technologies: 2009-2010
+* 2023-current : Senior AI Researcher at Kaliber.ai
+* 2019-2023 : Data Scientist at  Kaliber.ai
+* 2009-2010 : Project Engineer at Wipro Technologies
 
 
   
 Certifications
 ======
+
 * Microsoft Certified: Azure AI Fundamentals, 2023
-• Coursera : Introduction to Generative AI, 2023
-• eQMS: Design Control, Risk Management, 2022
-• VSkills Certified HTML Designer, 2011
-• Sun Certified Java Programmer (SCJP), 2009
+* Coursera : Introduction to Generative AI, 2023
+* eQMS: Design Control, Risk Management, 2022
+* VSkills Certified HTML Designer, 2011
+* Sun Certified Java Programmer (SCJP), 2009
 
 
 Publications
@@ -61,8 +62,13 @@ Teaching
   
 Skills
 ======
-* PyTorch, Python, C++, LangChain, Hugging Face, MATLAB
 
+* Languages: Python, C/++, Java, SQL, HTML, CSS, MATLAB, Shellscript, Latex
+* Libraries: PyTorch, LangCHain, Hugging Face Keras, OpenCV, SKlearn, PyVista3D
+* Tools: Informatica, Teradata, Microstrategy
+* DevOps: Docker, git, github
+* MLOps: Microsoft Azure, Amazon Sagemaker
+  
 Achievements
 ======
 * Web Manager of conference ICVGIP 2016 helld at IIT Guwahati
