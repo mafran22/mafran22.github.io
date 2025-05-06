@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<p align="right">Download CV in <a href="cv.pdf">PDF</a></p>
+<p align="right">Download CV in <a href="https://mafran22.github.io/files/cv.pdf">PDF</a></p>
 
 Objective
 ======
