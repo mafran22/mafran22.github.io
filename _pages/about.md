@@ -17,6 +17,7 @@ redirect_from:
 
 ## Announcements
 Microsoft Azure Certified
+
 PhD completed on September 30, 2023
 
 
