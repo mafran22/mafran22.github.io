@@ -12,9 +12,11 @@ redirect_from:
 
 Objective
 ======
-<p align="justify">Mathew Francis is a computer vision researcher with expertise in deep learning, image processing, object tracking, etc.. He completed PhD on the topic of ``Visual Object Tracking in Dynamic Scenes" in Electrical Engineering from Indian Institute of Technology Guwahati. Mathew Francis has published papers in computer vision conferences like ICPR, PreMI, NCVPRIPG. After converting PhD to part-time , he worked as a Data Scientist at Kaliber Labs where he worked on AI in surgery. He has also contributed to the development of AI based solutions in medical imaging.</p>
+<p style='text-align: justify;'> Mathew Francis is a seasoned computer vision researcher with expertise in deep learning, machine learning, generative models, large language models, and vision-language systems. He earned his PhD in Electrical Engineering from the Indian Institute of Technology Guwahati, where his research focused on Visual Object Tracking in Dynamic Scenes. His work has been published in leading computer vision conferences such as ICPR, PReMI, and NCVPRIPG.
+</p>
 
-<p align="justify">His research interests include deep learning, object recognition, image processing, etc.. He is passionate about using computer vision to solve challenging problems in areas you're interested in applying your research to, such as healthcare, autonomous driving , etc.. As a postdoctoral candidate, he is excited to work on challenging and interdisciplinary problems that require expertise in computer vision, machine learning, deep learning and other related fields. He is looking to collaborate with researchers and scientists in academia and industry to advance the state-of-the-art in computer vision and develop solutions that can have a real-world impact.</p>
+<p style='text-align: justify;'>
+He currently serves as a Senior AI Researcher, where he leads a team developing AI-assisted applications for arthroscopic surgery. Mathew is deeply passionate about applying artificial intelligence to solve complex and impactful real-world problems. He actively seeks collaboration with researchers and professionals in the industry to develop advanced AI solutions that can drive meaningful change.</p>
 
 Expertise
 ========
@@ -22,23 +24,26 @@ Machine LEarning, Computer Vsion, Deep Learning, Generative Models, Large Langua
 
 Education
 ======
-* B.Tech. in Electronics and Communication, Mahatma Gandhi University, Kerala, India, 2008
-* M.Tech. in Electronic Systems and Communication, National Institute of Technology Rourkela, India, 2014
 * Ph.D in Computer Vision, Indian Institute of Technlogy Guwahati, India, 2023
+* M.Tech. in Electronic Systems and Communication, National Institute of Technology Rourkela, India, 2014
+* B.Tech. in Electronics and Communication, Mahatma Gandhi University, Kerala, India, 2008
 
-Work experience
+
+Work Experience
 ======
-* Data Scientist : 2019-
-  * Kaliber.ai
-* Project Engineer : 2009-2010
-  * Wipro Technologies
+* Senior AI Researcher at Kaliber.ai : 2023-current
+* Data Scientist at  Kaliber.ai: 2019-2023
+* Project Engineer at Wipro Technologies: 2009-2010
+
 
   
 Certifications
 ======
-* Coursera Deep Learning Certificaton 
-* Sun Certified Java Programmer (SCJP)
-* VSkills Certified HTML Designer
+* Microsoft Certified: Azure AI Fundamentals, 2023
+• Coursera : Introduction to Generative AI, 2023
+• eQMS: Design Control, Risk Management, 2022
+• VSkills Certified HTML Designer, 2011
+• Sun Certified Java Programmer (SCJP), 2009
 
 
 Publications
@@ -56,7 +61,7 @@ Teaching
   
 Skills
 ======
-* PyTorch, Python, C++, MATLAB
+* PyTorch, Python, C++, LangChain, Hugging Face, MATLAB
 
 Achievements
 ======
