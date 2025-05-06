@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About Me"
   avatar           : "profile.png"
-  bio              : "<p style='text-align: justify;'>I AM am an AI researcher specializing in machine learning, deep learning, generative models, large language models, and vision-language models. I earned my PhD from the Indian Institute of Technology Guwahati, where my research focused on visual object tracking in dynamic environments. I am driven by a passion for leveraging artificial intelligence to address complex, real-world challenges with meaningful impact.</p>"
+  bio              : "<p style='text-align: justify;'>I am an AI researcher specializing in machine learning, deep learning, generative models, large language models, and vision-language models. I earned my PhD from the Indian Institute of Technology Guwahati, where my research focused on visual object tracking in dynamic environments. I am driven by a passion for leveraging artificial intelligence to address complex, real-world challenges with meaningful impact.</p>"
   location         : "Kerala, India"
   employer         : 
   pubmed           : 
