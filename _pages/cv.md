@@ -1,14 +1,14 @@
 ---
 layout: archive
 title: ""
-permalink: /
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-<p align="right">Download CV in <a href="https://mafran22.github.io/files/cv.pdf">PDF</a></p>
+<p align="right">Download CV in <a href="../files/cv.pdf">PDF</a></p>
 
 Objective
 ======
