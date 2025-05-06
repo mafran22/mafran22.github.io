@@ -20,7 +20,7 @@ He currently serves as a Senior AI Researcher, where he leads a team developing 
 
 Expertise
 ========
-Machine LEarning, Computer Vsion, Deep Learning, Generative Models, Large Language Models (LLM)s, Vision Language Models (VLMs)
+Machine Learning, Computer Vsion, Deep Learning, Generative Models, Large Language Models (LLM)s, Vision Language Models (VLMs)
 
 Education
 ======
