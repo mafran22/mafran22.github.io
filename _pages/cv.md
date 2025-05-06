@@ -16,6 +16,10 @@ Objective
 
 <p align="justify">His research interests include deep learning, object recognition, image processing, etc.. He is passionate about using computer vision to solve challenging problems in areas you're interested in applying your research to, such as healthcare, autonomous driving , etc.. As a postdoctoral candidate, he is excited to work on challenging and interdisciplinary problems that require expertise in computer vision, machine learning, deep learning and other related fields. He is looking to collaborate with researchers and scientists in academia and industry to advance the state-of-the-art in computer vision and develop solutions that can have a real-world impact.</p>
 
+Expertise
+======
+Machine LEarning, Computer Vsion, Deep Learning, Generative Models, Large Language Models (LLM)s, Vision Language Models (VLMs)
+
 Education
 ======
 * B.Tech. in Electronics and Communication, Mahatma Gandhi University, Kerala, India, 2008
